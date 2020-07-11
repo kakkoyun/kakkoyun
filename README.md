@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![1500x500](https://user-images.githubusercontent.com/536449/87228151-7d711200-c39f-11ea-9cd5-a511464c430f.jpeg "Kemal Akkoyun")](https://github.com/kakkoyun)
+
 Reasoned Software Infrastructure Engineer. Site Reliability Engineer. Programmer. Dealing with Observability, Reliability and Performance. 
 🤔 Slow thinker. Open Source Enthusiast. Mentor (CommunityBridge, GoBridge). Blogger and speaker (At least trying to be one). 
 Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him.
