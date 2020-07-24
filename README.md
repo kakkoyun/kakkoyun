@@ -25,3 +25,6 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him.
 🌱 I’m currently learning internals of timeseries databases, distributed systems and building highly available systems.
 
 For more visit [kakkoyun.me](https://kakkoyun.me)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
