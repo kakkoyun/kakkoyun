@@ -28,10 +28,10 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Go         12 hrs 22 mins  ███████████████████░░░░░░   79.40 % 
-Makefile   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Markdown   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Bash       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Other      32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Go         19 hrs 5 mins   █████████████████░░░░░░░░   68.83 % 
+Markdown   2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Makefile   2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Bash       1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other      37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 <!--END_SECTION:waka-->
