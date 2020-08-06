@@ -28,6 +28,8 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
+Week: 29 July, 2020 - 05 August, 2020
+
 Go         9 hrs 7 mins    ███████████████░░░░░░░░░░   62.97 % 
 Bash       1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 Makefile   1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
