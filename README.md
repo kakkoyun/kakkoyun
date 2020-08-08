@@ -28,7 +28,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 July, 2020 - 06 August, 2020
+Week: 31 July, 2020 - 07 August, 2020
 
 Go         9 hrs 7 mins    ███████████████░░░░░░░░░░   62.97 % 
 Bash       1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
