@@ -38,4 +38,4 @@ Markdown   21 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-More detailed https://wakatime.com/@kemal
+Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
