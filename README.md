@@ -30,10 +30,10 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 ```text
 Week: 04 August, 2020 - 11 August, 2020
 
-Go         9 hrs 7 mins    ███████████████░░░░░░░░░░   62.97 % 
-Bash       1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Makefile   1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Markdown   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Jsonnet    35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Go         11 hrs 13 mins  ███████████████████░░░░░░   76.49 % 
+Jsonnet    1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+JSON       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Bash       29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown   21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 <!--END_SECTION:waka-->
