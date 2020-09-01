@@ -28,7 +28,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2020 - 30 August, 2020
+Week: 24 August, 2020 - 31 August, 2020
 
 Go         11 hrs 13 mins  ███████████████████░░░░░░   76.49 % 
 Jsonnet    1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
