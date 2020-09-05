@@ -28,13 +28,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2020 - 03 September, 2020
+Week: 28 August, 2020 - 04 September, 2020
 
-Go         11 hrs 13 mins  ███████████████████░░░░░░   76.49 % 
-Jsonnet    1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-JSON       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Bash       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Markdown   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Go         8 hrs 44 mins   ██████████████████░░░░░░░   72.25 % 
+Bash       1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+TOML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Makefile   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
