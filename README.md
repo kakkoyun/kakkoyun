@@ -28,7 +28,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
 Go         8 hrs 44 mins   ██████████████████░░░░░░░   72.25 % 
 Bash       1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
