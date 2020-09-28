@@ -28,7 +28,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
 TypeScript   4 hrs 23 mins   █████████████████▓░░░░░░░   70.17 % 
 Go           1 hr 20 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
