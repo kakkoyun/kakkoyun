@@ -28,12 +28,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2020 - 29 September, 2020
+Week: 23 September, 2020 - 30 September, 2020
 
-TypeScript   4 hrs 23 mins   █████████████████▓░░░░░░░   70.17 % 
-Go           1 hr 20 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
-Markdown     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TypeScript   35 mins         ███████████░░░░░░░░░░░░░░   43.57 % 
+Go           33 mins         ██████████▒░░░░░░░░░░░░░░   41.84 % 
+Markdown     11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 ```
 <!--END_SECTION:waka-->
 
