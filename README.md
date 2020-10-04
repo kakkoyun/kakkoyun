@@ -28,11 +28,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2020 - 02 October, 2020
-
-TypeScript   35 mins         ███████████░░░░░░░░░░░░░░   43.57 % 
-Go           33 mins         ██████████▒░░░░░░░░░░░░░░   41.84 % 
-Markdown     11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
