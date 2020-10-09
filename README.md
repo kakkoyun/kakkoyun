@@ -28,7 +28,10 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 October, 2020 - 08 October, 2020
+
+Go         3 hrs 11 mins   ████████████████████████▓   98.71 % 
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 
