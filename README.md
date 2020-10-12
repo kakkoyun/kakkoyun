@@ -28,7 +28,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
+Week: 04 October, 2020 - 11 October, 2020
 
 Go         6 hrs 46 mins   ████████████████████████▒   97.96 % 
 Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
