@@ -24,6 +24,9 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 🔭 I’m currently working on to build large scale, distributed systems, observability infrastructure, and real-time data storage systems.
 🌱 I’m currently learning internals of timeseries databases, distributed systems and building highly available systems.
 
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-32.png" alt="twitter" width="20"/>](https://twitter.com/kkakkoyun)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png" alt="linkedin" width="20"/>](https://www.linkedin.com/in/kakkoyun)
+
 For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
