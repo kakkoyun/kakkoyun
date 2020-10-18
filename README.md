@@ -34,7 +34,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
 Go         3 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 % 
 Makefile   2 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
