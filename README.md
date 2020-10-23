@@ -34,13 +34,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
-Go           3 hrs 1 min     ███████████████▓░░░░░░░░░   63.22 % 
-Makefile     38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Bash         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Git Config   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-YAML         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown   3 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   40.51 % 
+Go         3 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.84 % 
+Makefile   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Bash       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 <!--END_SECTION:waka-->
 
