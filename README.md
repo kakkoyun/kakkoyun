@@ -34,7 +34,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2020 - 29 October, 2020
+Week: 23 October, 2020 - 30 October, 2020
 
 Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 % 
 Go         3 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.10 % 
