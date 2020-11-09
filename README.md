@@ -36,11 +36,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 ```text
 Week: 01 November, 2020 - 08 November, 2020
 
-Markdown   3 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 % 
-Go         3 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.10 % 
-Makefile   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Bash       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-YAML       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Jsonnet    15 hrs 1 min    ██████████████████▓░░░░░░   74.84 % 
+Go         2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JSON       1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Markdown   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+YAML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
 
