@@ -34,7 +34,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
 Jsonnet    15 hrs 1 min    ██████████████████▓░░░░░░   74.84 % 
 Go         2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
