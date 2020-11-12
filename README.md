@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
-<img src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&count_private=true&theme=gotham" alt="Stats" />
-![kakkoyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kemal&theme=gotham)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&count_private=true&theme=gotham&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kemal&theme=gotham&layout=compact" />
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&count_private=true&theme=gotham&layout=compact" />
 
 -->
 
@@ -32,16 +28,6 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 
 For more visit [kakkoyun.me](https://kakkoyun.me)
 
-<!--START_SECTION:waka-->
-```text
-Week: 04 November, 2020 - 11 November, 2020
-
-Jsonnet    15 hrs 1 min    ██████████████████▓░░░░░░   74.84 % 
-Go         2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-JSON       1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Markdown   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-YAML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-```
-<!--END_SECTION:waka-->
+<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=kemal&theme=gotham&layout=compact" />
 
 Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
