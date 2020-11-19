@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&count_private=true&theme=gotham&layout=compact" />
-
 -->
 
 
@@ -28,6 +26,19 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 
 For more visit [kakkoyun.me](https://kakkoyun.me)
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=kemal&theme=gotham&layout=compact" />
+<table border="0">
+  <tbody>
+    <tr valign="top">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&count_private=true&theme=gotham&layout=default" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kemal&theme=gotham&layout=default" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
