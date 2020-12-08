@@ -38,8 +38,16 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 
 For more visit [kakkoyun.me](https://kakkoyun.me)
 
-<!--START_SECTION:waka-->	
+<!--START_SECTION:waka-->
+```text
+Week: 30 November, 2020 - 07 December, 2020
 
+Jsonnet    5 hrs 52 mins   ████████████████░░░░░░░░░   63.60 % 
+YAML       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Bash       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Makefile   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Go         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
 <!--END_SECTION:waka-->
 
 Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
