@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2020 - 23 December, 2020
+Week: 17 December, 2020 - 24 December, 2020
 
 Jsonnet    5 hrs 52 mins   ████████████████░░░░░░░░░   63.60 % 
 YAML       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
