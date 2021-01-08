@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 Jsonnet    5 hrs 52 mins   ████████████████░░░░░░░░░   63.60 % 
 YAML       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
