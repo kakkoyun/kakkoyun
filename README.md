@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2021 - 04 February, 2021
+Week: 29 January, 2021 - 05 February, 2021
 
 Jsonnet    5 hrs 52 mins   ████████████████░░░░░░░░░   63.60 % 
 YAML       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
