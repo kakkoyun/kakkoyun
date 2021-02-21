@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-Jsonnet    5 hrs 52 mins   ████████████████░░░░░░░░░   63.60 % 
-YAML       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Bash       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Makefile   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Go         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Go         8 hrs 44 mins   ██████████████████░░░░░░░   72.25 % 
+Bash       1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+TOML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Makefile   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
