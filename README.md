@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 March, 2021 - 11 March, 2021
+Week: 05 March, 2021 - 12 March, 2021
 
 Go         8 hrs 44 mins   ██████████████████░░░░░░░   72.25 % 
 Bash       1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
