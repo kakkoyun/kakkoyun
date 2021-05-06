@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 April, 2021 - 04 May, 2021
+Week: 28 April, 2021 - 05 May, 2021
 
-YAML       1 hr 31 mins    █████████▓░░░░░░░░░░░░░░░   38.35 % 
-Jsonnet    1 hr 20 mins    ████████▒░░░░░░░░░░░░░░░░   33.77 % 
-Markdown   36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-JSON       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Makefile   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Jsonnet    1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.43 % 
+YAML       58 mins         ██████████░░░░░░░░░░░░░░░   39.63 % 
+Markdown   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+JSON       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Makefile   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 <!--END_SECTION:waka-->
 
