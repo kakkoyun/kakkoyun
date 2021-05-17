@@ -40,9 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 May, 2021 - 15 May, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
