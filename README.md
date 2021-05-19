@@ -40,7 +40,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 May, 2021 - 18 May, 2021
+
+YAML   29 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
