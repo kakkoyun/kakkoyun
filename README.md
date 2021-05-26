@@ -40,11 +40,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 May, 2021 - 24 May, 2021
+Week: 18 May, 2021 - 25 May, 2021
 
-YAML       1 hr 32 mins    ██████████████████████░░░   87.57 % 
-Other      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+YAML       1 hr 2 mins     ████████████████████▓░░░░   82.68 % 
+Other      9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 <!--END_SECTION:waka-->
 
