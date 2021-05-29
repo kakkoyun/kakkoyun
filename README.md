@@ -40,10 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 May, 2021 - 27 May, 2021
-
-Other      8 mins          ███████████████████▒░░░░░   77.39 % 
-Markdown   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
