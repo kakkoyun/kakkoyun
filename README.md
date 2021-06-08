@@ -40,7 +40,12 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 May, 2021 - 07 June, 2021
+
+Markdown   30 mins         ███████████████░░░░░░░░░░   60.03 % 
+YAML       9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.29 % 
+JSON       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Jsonnet    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 <!--END_SECTION:waka-->
 
