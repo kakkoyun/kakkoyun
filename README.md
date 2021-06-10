@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 02 June, 2021 - 09 June, 2021
 
-Jsonnet    1 hr 20 mins    ███████████░░░░░░░░░░░░░░   43.68 % 
-YAML       42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
-Markdown   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Makefile   21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JSON       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Jsonnet    1 hr 20 mins    █████████▒░░░░░░░░░░░░░░░   37.57 % 
+YAML       1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.71 % 
+Markdown   30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Makefile   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+JSON       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 <!--END_SECTION:waka-->
 
