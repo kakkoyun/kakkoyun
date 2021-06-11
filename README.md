@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
+Week: 03 June, 2021 - 10 June, 2021
 
 Jsonnet    1 hr 20 mins    █████████▒░░░░░░░░░░░░░░░   37.57 % 
 YAML       1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.71 % 
