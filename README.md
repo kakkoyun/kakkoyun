@@ -40,12 +40,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
+Week: 08 June, 2021 - 15 June, 2021
 
-YAML       1 hr 51 mins    █████████████░░░░░░░░░░░░   52.38 % 
-Jsonnet    1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.47 % 
-Makefile   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Modula-2   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+YAML   1 hr 19 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
