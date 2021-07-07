@@ -40,11 +40,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
-Bash        1 hr 17 mins    █████████████████████░░░░   83.60 % 
-Other       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Makefile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Bash       1 hr 17 mins    █████████████████████░░░░   83.36 % 
+Other      13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
