@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 June, 2021 - 06 July, 2021
+Week: 01 July, 2021 - 07 July, 2021
 
 Bash       1 hr 17 mins    █████████████████████░░░░   83.36 % 
 Other      13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
