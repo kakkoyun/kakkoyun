@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 July, 2021 - 08 July, 2021
+Week: 03 July, 2021 - 09 July, 2021
 
-Bash         1 hr 17 mins    ████████▓░░░░░░░░░░░░░░░░   34.95 % 
-Git Config   1 hr 7 mins     ███████▓░░░░░░░░░░░░░░░░░   30.41 % 
-Go           48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
-Other        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Makefile     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Bash         2 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   46.87 % 
+Git Config   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
+Go           48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Other        35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Makefile     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
 
