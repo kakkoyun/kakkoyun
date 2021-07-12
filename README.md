@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
 Bash         2 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   46.87 % 
 Git Config   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
