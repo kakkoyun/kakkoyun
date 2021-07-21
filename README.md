@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
-Other      15 hrs 34 mins  ███████████████░░░░░░░░░░   60.29 % 
-Go         3 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Bash       2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Makefile   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-SQL        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other     22 hrs 58 mins  ███████████████████░░░░░░   75.88 % 
+Go        3 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+sh        1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Bash      1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Jsonnet   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
 
