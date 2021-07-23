@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
-Other      27 hrs 27 mins  ███████████████████░░░░░░   75.79 % 
-sh         4 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Go         2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Makefile   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Bash       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other      30 hrs 12 mins  ███████████████████░░░░░░   75.81 % 
+sh         6 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Go         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Makefile   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+YAML       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
