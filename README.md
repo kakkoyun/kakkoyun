@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
 Other      30 hrs 12 mins  ███████████████████░░░░░░   75.81 % 
 sh         6 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
