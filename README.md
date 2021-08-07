@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 July, 2021 - 05 August, 2021
+Week: 31 July, 2021 - 06 August, 2021
 
 Other      23 hrs 54 mins  ██████████████████▒░░░░░░   73.01 % 
 Go         6 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 % 
