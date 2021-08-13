@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2021 - 11 August, 2021
+Week: 06 August, 2021 - 12 August, 2021
 
-Other        14 hrs 48 mins  █████████████████░░░░░░░░   67.46 % 
-Go           4 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-sh           1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other     8 hrs 28 mins   ████████████▒░░░░░░░░░░░░   48.84 % 
+sh        2 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Jsonnet   1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Go        1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Docker    44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
 
