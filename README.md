@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2021 - 12 August, 2021
+Week: 07 August, 2021 - 13 August, 2021
 
 Other     8 hrs 28 mins   ████████████▒░░░░░░░░░░░░   48.84 % 
 sh        2 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
