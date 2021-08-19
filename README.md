@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
 sh           6 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.74 % 
 Jsonnet      1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
