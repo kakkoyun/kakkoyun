@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2021 - 21 August, 2021
+Week: 16 August, 2021 - 22 August, 2021
 
 sh           8 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   40.23 % 
 TypeScript   5 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
