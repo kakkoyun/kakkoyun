@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2021 - 28 August, 2021
+Week: 23 August, 2021 - 29 August, 2021
 
 Go      22 hrs 8 mins   ████████████████▒░░░░░░░░   65.61 % 
 sh      6 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
