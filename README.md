@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
 sh           4 hrs 11 mins   ███████████████████░░░░░░   75.94 % 
 Go           1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
