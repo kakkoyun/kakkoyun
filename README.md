@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
-sh           4 hrs 11 mins   ███████████████████░░░░░░   75.94 % 
-Go           1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
-TOML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+sh      7 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.25 % 
+Go      5 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   40.68 % 
+Other   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TOML    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Text    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->
 
