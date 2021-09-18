@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 September, 2021 - 16 September, 2021
+Week: 11 September, 2021 - 17 September, 2021
 
-Go         12 hrs 49 mins  ███████████▓░░░░░░░░░░░░░   46.69 % 
-sh         11 hrs 20 mins  ██████████▒░░░░░░░░░░░░░░   41.28 % 
-Markdown   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Other      43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Bash       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Go         12 hrs 21 mins  ████████████▓░░░░░░░░░░░░   50.53 % 
+sh         9 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.19 % 
+Markdown   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Other      43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Bash       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 <!--END_SECTION:waka-->
 
