@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-sh           16 hrs 54 mins  █████████████▒░░░░░░░░░░░   53.37 % 
-Go           3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-YAML         2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-MDX          1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-JavaScript   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+sh           16 hrs 19 mins  █████████████░░░░░░░░░░░░   51.73 % 
+Go           3 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+YAML         3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+MDX          2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JavaScript   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 <!--END_SECTION:waka-->
 
