@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2021 - 29 September, 2021
+Week: 24 September, 2021 - 30 September, 2021
 
 sh           14 hrs 58 mins  ████████████▒░░░░░░░░░░░░   49.46 % 
 MDX          4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 % 
