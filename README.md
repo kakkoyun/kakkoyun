@@ -40,13 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-sh         6 hrs 55 mins   █████████████▒░░░░░░░░░░░   53.18 % 
-Go         2 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 % 
-YAML       1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Markdown   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Other      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+sh         9 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.34 % 
+Go         2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Markdown   2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+YAML       2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+MDX        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 <!--END_SECTION:waka-->
 
