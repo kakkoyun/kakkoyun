@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 sh         11 hrs 49 mins  ███████████░░░░░░░░░░░░░░   44.45 % 
 Markdown   5 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 % 
