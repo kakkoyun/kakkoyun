@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
 sh           1 hr 31 mins    ████████████░░░░░░░░░░░░░   48.58 % 
 Go           32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
