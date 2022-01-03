@@ -40,13 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 31 October, 2021
-
-sh           1 hr 31 mins    ████████████░░░░░░░░░░░░░   48.58 % 
-Go           32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Other        31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Bash         28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
