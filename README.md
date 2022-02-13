@@ -40,7 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 06 February, 2022 - 12 February, 2022
+
+sh     3 hrs 58 mins   ███████████████▒░░░░░░░░░   61.29 % 
+Go     1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+YAML   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+TOML   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Bash   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 <!--END_SECTION:waka-->
 
