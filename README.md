@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
 sh     3 hrs 58 mins   ███████████████▒░░░░░░░░░   61.29 % 
 Go     1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
