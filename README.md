@@ -40,15 +40,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
-Total: 6 hrs 28 mins
-
-sh     3 hrs 58 mins   ███████████████▒░░░░░░░░░   61.29 % 
-Go     1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-YAML   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-TOML   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Bash   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Go         10 hrs 34 mins  ████████████████▒░░░░░░░░   65.03 % 
+sh         4 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+YAML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Makefile   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->
 
