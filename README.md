@@ -40,7 +40,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
 Go         10 hrs 34 mins  ████████████████▒░░░░░░░░   65.03 % 
 sh         4 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.59 % 
