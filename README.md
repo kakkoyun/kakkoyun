@@ -41,14 +41,14 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-Go                                       11 hrs 7 mins   █████████████████████▓░░░   86.73 %
-Jsonnet                                  43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Bash                                     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-YAML                                     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-go.mod                                   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Makefile                                 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Go             3 hrs 49 mins   ██████████████████░░░░░░░   71.98 %
+Jsonnet        43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Bash           16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+YAML           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+go.mod         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Makefile       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
