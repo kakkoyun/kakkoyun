@@ -41,7 +41,14 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 March 2022 - To: 14 March 2022
+
+YAML             1 hr 51 mins    ████████████▒░░░░░░░░░░░░   49.50 %
+Go               45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+Dockerfile       24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Docker           17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Makefile         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Shell Script     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
