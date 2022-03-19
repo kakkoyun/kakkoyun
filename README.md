@@ -41,11 +41,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
-YAML              5 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   46.45 %
-Go                2 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Other             1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Other             7 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   35.15 %
 ```
 
 <!--END_SECTION:waka-->
