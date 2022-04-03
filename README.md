@@ -41,7 +41,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2022 - To: 01 April 2022
+From: 26 March 2022 - To: 02 April 2022
 
 Other        10 hrs 16 mins  █████████████░░░░░░░░░░░░   51.81 %
 ```
