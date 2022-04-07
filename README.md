@@ -43,7 +43,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 ```text
 From: 30 March 2022 - To: 06 April 2022
 
-Other            3 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.50 %
+Other            12 hrs 22 mins  ██████████████▒░░░░░░░░░░   56.72 %
 ```
 
 <!--END_SECTION:waka-->
