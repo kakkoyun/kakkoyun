@@ -41,10 +41,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-Go              6 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   32.78 %
-Other           4 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+Go              6 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.88 %
+C               5 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+Other           4 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
 ```
 
 <!--END_SECTION:waka-->
