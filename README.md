@@ -38,6 +38,9 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 
 For more visit [kakkoyun.me](https://kakkoyun.me)
 
+<a href="http://www.github.com/kakkoyun"><img src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakkoyun's GitHub stats" /></a>
+<a href="http://www.github.com/kakkoyun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kakkoyun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <!--START_SECTION:waka-->
 
 ```text
