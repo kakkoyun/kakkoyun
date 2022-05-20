@@ -44,11 +44,10 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2022 - To: 18 May 2022
+From: 12 May 2022 - To: 19 May 2022
 
-YAML          2 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-sh            1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Other         1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Go            2 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Other         1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
 ```
 
 <!--END_SECTION:waka-->
