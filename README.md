@@ -44,7 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 May 2022 - To: 30 May 2022
+
+Other   25 mins         ██████████████████▒░░░░░░   73.69 %
 ```
 
 <!--END_SECTION:waka-->
