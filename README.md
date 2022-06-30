@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 June 2022 - To: 28 June 2022
+From: 22 June 2022 - To: 29 June 2022
 
-Other         3 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.10 %
+Other             4 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
 ```
 
 <!--END_SECTION:waka-->
