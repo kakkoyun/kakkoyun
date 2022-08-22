@@ -44,7 +44,7 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
 Go            3 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.04 %
 C             1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
