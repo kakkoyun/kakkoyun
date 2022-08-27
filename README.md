@@ -44,14 +44,13 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 August 2022 - To: 24 August 2022
+From: 18 August 2022 - To: 25 August 2022
 
-Go            3 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.10 %
-C             2 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.61 %
-Objective-C   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Shell         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Makefile      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-YAML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Go            2 hrs 58 mins   █████████████░░░░░░░░░░░░   51.94 %
+C             2 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.54 %
+Objective-C   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Shell         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Makefile      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
