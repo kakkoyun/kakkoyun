@@ -44,11 +44,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-Go            2 hrs 58 mins   ████████████░░░░░░░░░░░░░   48.14 %
-C             2 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.66 %
-Other         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Go            1 hr 58 mins    ██████████▓░░░░░░░░░░░░░░   43.02 %
+C             1 hr 56 mins    ██████████▓░░░░░░░░░░░░░░   42.28 %
+Other         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
 
 <!--END_SECTION:waka-->
