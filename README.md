@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-Other             1 hr            ██████████████▓░░░░░░░░░░   58.62 %
+Other             1 hr 1 min      █████████████▓░░░░░░░░░░░   55.16 %
 ```
 
 <!--END_SECTION:waka-->
