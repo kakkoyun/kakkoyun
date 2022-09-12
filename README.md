@@ -44,10 +44,10 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
-Go         2 hrs 11 mins   ███████████████░░░░░░░░░░   60.54 %
-Other      47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Go         2 hrs 11 mins   ███████████████▓░░░░░░░░░   62.31 %
+Other      47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
 ```
 
 <!--END_SECTION:waka-->
