@@ -44,12 +44,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 September 2022 - To: 23 September 2022
+From: 17 September 2022 - To: 24 September 2022
 
-Go            2 hrs 58 mins   ███████████████████████▒░   93.45 %
-Makefile      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-sh            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Ignore List   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Go            2 hrs 58 mins   ███████████████████████▒░   93.77 %
+Makefile      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Ignore List   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Jsonnet       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
