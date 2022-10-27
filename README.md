@@ -44,7 +44,10 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 October 2022 - To: 25 October 2022
+
+Go           7 mins          █████████████████▓░░░░░░░   71.29 %
+Other        2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
 ```
 
 <!--END_SECTION:waka-->
