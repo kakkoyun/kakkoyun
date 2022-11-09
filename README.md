@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-Other      2 hrs 44 mins   ████████████▒░░░░░░░░░░░░   49.89 %
+Other      2 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.07 %
 ```
 
 <!--END_SECTION:waka-->
