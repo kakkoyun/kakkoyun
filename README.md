@@ -44,11 +44,11 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 12 November 2022
+From: 06 November 2022 - To: 13 November 2022
 
-Go            7 hrs 2 mins    ██████████████░░░░░░░░░░░   55.53 %
+Go            7 hrs 2 mins    ██████████████░░░░░░░░░░░   55.52 %
 sh            2 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Other         1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Other         1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
 ```
 
 <!--END_SECTION:waka-->
