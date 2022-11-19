@@ -44,10 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
-Go            7 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.16 %
-Other         5 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Other            7 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.15 %
 ```
 
 <!--END_SECTION:waka-->
