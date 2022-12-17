@@ -44,11 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-Go            2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
-MDX           1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-Other         1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Other         3 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 %
 ```
 
 <!--END_SECTION:waka-->
