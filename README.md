@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 December 2022 - To: 18 December 2022
+From: 12 December 2022 - To: 19 December 2022
 
-Other         3 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   40.00 %
+Other         3 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   40.35 %
 ```
 
 <!--END_SECTION:waka-->
