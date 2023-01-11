@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Other         16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+Other         16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
 ```
 
 <!--END_SECTION:waka-->
