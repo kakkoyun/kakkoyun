@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-Other         32 hrs 44 mins  ██████████████████████▓░░   90.90 %
+Other         32 hrs 29 mins  ██████████████████████▓░░   90.84 %
 ```
 
 <!--END_SECTION:waka-->
