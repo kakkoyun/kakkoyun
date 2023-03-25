@@ -44,9 +44,9 @@ For more visit [kakkoyun.me](https://kakkoyun.me)
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 22 March 2023
+From: 16 March 2023 - To: 23 March 2023
 
-Other         25 hrs 14 mins  █████████████████████▒░░░   84.92 %
+Other         25 hrs 21 mins  ███████████████████████░░   92.28 %
 ```
 
 <!--END_SECTION:waka-->
