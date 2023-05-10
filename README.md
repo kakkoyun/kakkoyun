@@ -63,7 +63,7 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
  - [Ice and Fire: How to read icicle and flame graphs](https://kakkoyun.me/posts/ice-and-fire/) `Tue Mar 28 2023 12:00 AM` 
- > I&amp;rsquo;m too lazy now a days to clone the blog post with all its assets and animations here. So until I get to it, I&amp;rsquo;m putting a link to it here. Enjoy :&rpar;
+ > I am too lazy now a days to clone the blog post with all its assets and animations here. So until I get to it, I have put a link to it here. Enjoy :&rpar;
 Originally published on polarsignals.com/blog on 28.03.2023
 https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs
  - [Fantastic Symbols and Where to Find Them - Part 2](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them-part-2/) `Thu Jan 27 2022 12:00 AM` 
