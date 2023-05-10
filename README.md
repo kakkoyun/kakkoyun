@@ -64,3 +64,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+#### Talks
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
+
