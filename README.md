@@ -62,6 +62,9 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fantastic Symbols and Where to Find Them - Part 2](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them-part-2/)
+- [Fantastic Symbols and Where to Find Them - Part 1](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them/)
+- [Projects](https://kakkoyun.me/projects/)
 <!-- BLOG-POST-LIST:END -->
 
 
