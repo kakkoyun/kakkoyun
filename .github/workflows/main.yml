@@ -30,7 +30,7 @@ jobs:
         with:
           feed_list: "https://kakkoyun.me/index.xml"
           max_post_count: 4
-          template: "- [$title]($url)$newline > $description$newline`$date`$newline"
+          template: "$newline - [$title]($url) / `$date` $newline > $description"
           
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
@@ -43,4 +43,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3P7-fer_ILLtH_ZtQDQhDAEgTo5r9OnB"
           max_post_count: 5
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          template: '<table><tr><td><a href="$url"><img width="90px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td><a href="$url"><img width="90px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title / `$date` </a></td></tr></table>$newline'
