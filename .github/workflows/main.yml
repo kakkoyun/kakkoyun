@@ -43,4 +43,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3P7-fer_ILLtH_ZtQDQhDAEgTo5r9OnB"
           max_post_count: 5
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          template: '$newline - <a href="$url"><img width="90px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a> [$title]($url) `$date`'
+          template: '$newline <tr><td><a href="$url"><img width="90px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td><td>[$title]($url) $newline `$date`</td></tr>'
