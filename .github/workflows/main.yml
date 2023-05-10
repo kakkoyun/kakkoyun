@@ -1,14 +1,16 @@
-name: Wakatime Readme
+name: Update Readme
 
 on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update this repo's README with Wakatime data
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -16,3 +18,28 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
+
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://kakkoyun.me/index.xml"
+          max_post_count: 3
+          
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3P7-fer_ILLtH_ZtQDQhDAEgTo5r9OnB"
+          max_post_count: 5
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
