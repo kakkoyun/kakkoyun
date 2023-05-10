@@ -30,7 +30,7 @@ jobs:
         with:
           feed_list: "https://kakkoyun.me/index.xml"
           max_post_count: 4
-          template: "<tr><td>[$title]($url)</td>$newline<td>$description</td>$newline<td>$date</td></tr>$newline"
+          template: "- [$title]($url)$newline > $description$newline`$date`$newline"
           
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
