@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
 <table border="0">
   <tbody>
     <tr valign="top">
@@ -26,6 +28,7 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
 -->
 
 
@@ -56,3 +59,8 @@ Dockerfile    6 mins          ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
+
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
