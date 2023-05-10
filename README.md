@@ -82,6 +82,7 @@ Read on for the story behind drone-cache or if you want to jump into action dire
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 ### Talks
+<table>
 <!-- YOUTUBE-LIST:START -->
  <tr><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY"><img width="90px" src="https://i.ytimg.com/vi/qQpehBEOakY/mqdefault.jpg"></a></td><td>[Prometheus Updates and Deep Dive - Kemal Akkoyun, Polar Signals &amp; Bryan Boreham, Grafana Labs](https://www.youtube.com/watch?v=qQpehBEOakY) 
  `Mon May 01 2023 5:38 PM`</td></tr>
@@ -92,5 +93,6 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
  <tr><td><a href="https://www.youtube.com/watch?v=g6B9Vbr88HM"><img width="90px" src="https://i.ytimg.com/vi/g6B9Vbr88HM/mqdefault.jpg"></a></td><td>[Achieving Zero-Instrumentation Monitoring with eBPF - Kemal Akkoyun, Polar Signals](https://www.youtube.com/watch?v=g6B9Vbr88HM) 
  `Fri Oct 28 2022 6:44 PM`</td></tr>
  <tr><td><a href="https://www.youtube.com/watch?v=OlHQ6gkwqyA"><img width="90px" src="https://i.ytimg.com/vi/OlHQ6gkwqyA/mqdefault.jpg"></a></td><td>[GopherCon Europe 2022:  Kemal Akkoyun - Building a Go Profiler Using Go](https://www.youtube.com/watch?v=OlHQ6gkwqyA) 
- `Fri Sep 02 2022 7:57 AM`</td></tr><!-- YOUTUBE-LIST:END -->
-
+ `Fri Sep 02 2022 7:57 AM`</td></tr>
+<!-- YOUTUBE-LIST:END -->
+</table>
