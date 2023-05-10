@@ -84,15 +84,19 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 ### Talks
 <table>
 <!-- YOUTUBE-LIST:START -->
- <tr><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY"><img width="90px" src="https://i.ytimg.com/vi/qQpehBEOakY/mqdefault.jpg"></a></td><td>[Prometheus Updates and Deep Dive - Kemal Akkoyun, Polar Signals &amp; Bryan Boreham, Grafana Labs](https://www.youtube.com/watch?v=qQpehBEOakY) 
- `Mon May 01 2023 5:38 PM`</td></tr>
- <tr><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc"><img width="90px" src="https://i.ytimg.com/vi/R3DxZWEdJkc/mqdefault.jpg"></a></td><td>[Making Go More Efficient &lpar;Go Time Live!&rpar;](https://www.youtube.com/watch?v=R3DxZWEdJkc) 
- `Wed Dec 07 2022 9:27 AM`</td></tr>
- <tr><td><a href="https://www.youtube.com/watch?v=B6Ds2myOIRc"><img width="90px" src="https://i.ytimg.com/vi/B6Ds2myOIRc/mqdefault.jpg"></a></td><td>[PromCon EU 2022: Best Practices and Pitfalls of Instrumenting Your Cloud-Native Application](https://www.youtube.com/watch?v=B6Ds2myOIRc) 
- `Thu Nov 24 2022 10:59 AM`</td></tr>
- <tr><td><a href="https://www.youtube.com/watch?v=g6B9Vbr88HM"><img width="90px" src="https://i.ytimg.com/vi/g6B9Vbr88HM/mqdefault.jpg"></a></td><td>[Achieving Zero-Instrumentation Monitoring with eBPF - Kemal Akkoyun, Polar Signals](https://www.youtube.com/watch?v=g6B9Vbr88HM) 
- `Fri Oct 28 2022 6:44 PM`</td></tr>
- <tr><td><a href="https://www.youtube.com/watch?v=OlHQ6gkwqyA"><img width="90px" src="https://i.ytimg.com/vi/OlHQ6gkwqyA/mqdefault.jpg"></a></td><td>[GopherCon Europe 2022:  Kemal Akkoyun - Building a Go Profiler Using Go](https://www.youtube.com/watch?v=OlHQ6gkwqyA) 
- `Fri Sep 02 2022 7:57 AM`</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY"><img width="90px" src="https://i.ytimg.com/vi/qQpehBEOakY/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY">Prometheus Updates and Deep Dive - Kemal Akkoyun, Polar Signals &amp; Bryan Boreham, Grafana Labs</a>
+<code>Mon May 01 2023 5:38 PM</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc"><img width="90px" src="https://i.ytimg.com/vi/R3DxZWEdJkc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc">Making Go More Efficient &lpar;Go Time Live!&rpar;</a>
+<code>Wed Dec 07 2022 9:27 AM</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=B6Ds2myOIRc"><img width="90px" src="https://i.ytimg.com/vi/B6Ds2myOIRc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=B6Ds2myOIRc">PromCon EU 2022: Best Practices and Pitfalls of Instrumenting Your Cloud-Native Application</a>
+<code>Thu Nov 24 2022 10:59 AM</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=g6B9Vbr88HM"><img width="90px" src="https://i.ytimg.com/vi/g6B9Vbr88HM/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=g6B9Vbr88HM">Achieving Zero-Instrumentation Monitoring with eBPF - Kemal Akkoyun, Polar Signals</a>
+<code>Fri Oct 28 2022 6:44 PM</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=OlHQ6gkwqyA"><img width="90px" src="https://i.ytimg.com/vi/OlHQ6gkwqyA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=OlHQ6gkwqyA">GopherCon Europe 2022:  Kemal Akkoyun - Building a Go Profiler Using Go</a>
+<code>Fri Sep 02 2022 7:57 AM</code></td></tr>
 <!-- YOUTUBE-LIST:END -->
 </table>
