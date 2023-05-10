@@ -30,6 +30,7 @@ jobs:
         with:
           feed_list: "https://kakkoyun.me/index.xml"
           max_post_count: 4
+          date_format: longDate
           template: "$newline - [$title]($url) `$date` $newline > $description"
           
   update-readme-with-youtube:
@@ -44,4 +45,5 @@ jobs:
           max_post_count: 5
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           title_max_length: 77 # 80 - ...
+          date_format: longDate
           template: '$newline<tr><td><a href="$url"><img width="90px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td><td><a href="$url">$title</a>$newline<code>$date</code></td></tr>$newline'
