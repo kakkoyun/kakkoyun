@@ -47,7 +47,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
 Other            24 hrs 43 mins  █████████████████▒░░░░░░░   69.50 %
 Go               10 hrs 5 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
