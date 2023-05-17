@@ -47,13 +47,13 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2023 - To: 14 May 2023
+From: 08 May 2023 - To: 15 May 2023
 
-Other            24 hrs 14 mins  █████████████████▒░░░░░░░   69.07 %
-Go               10 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-Shell            12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Makefile         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Markdown         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other            22 hrs 48 mins  ████████████████▒░░░░░░░░   64.72 %
+Go               12 hrs          ████████▓░░░░░░░░░░░░░░░░   34.07 %
+Makefile         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Markdown         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Shell            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
