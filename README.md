@@ -47,12 +47,9 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2023 - To: 25 June 2023
+From: 19 June 2023 - To: 26 June 2023
 
-Go         4 hrs 21 mins   ███████████████████████▓░   94.42 %
-Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-C          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
