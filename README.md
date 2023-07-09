@@ -47,13 +47,13 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2023 - To: 06 July 2023
+From: 30 June 2023 - To: 07 July 2023
 
-Go           8 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.57 %
-YAML         1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Jsonnet      1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Makefile     57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Shell        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Go            8 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.47 %
+YAML          1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Jsonnet       1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Makefile      57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Shell         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
