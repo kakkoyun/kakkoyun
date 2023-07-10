@@ -47,7 +47,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
 Go            8 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.47 %
 YAML          1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
