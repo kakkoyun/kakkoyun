@@ -47,7 +47,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2023 - To: 15 July 2023
+From: 09 July 2023 - To: 16 July 2023
 
 Go         2 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   40.03 %
 Rust       2 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
