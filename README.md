@@ -47,7 +47,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
 Other         4 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   44.94 %
 sh            2 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.69 %
