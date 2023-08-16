@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 -->
 
+[![wakatime](https://wakatime.com/badge/user/c03c2c3a-0328-4e74-ba79-1ce0eb43a4f8.svg)](https://wakatime.com/@c03c2c3a-0328-4e74-ba79-1ce0eb43a4f8)
+<!--[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/kkakkoyun)
+[![github](https://img.shields.io/github/followers/kakkoyun?logo=github&style=plastic)](https://github.com/kakkoyun?tab=followers)-->
 
 Reasoned Software Infrastructure Engineer. Site Reliability Engineer. Dealing with Observability, Reliability and Performance. 
 🤔 Slow thinker. Open Source Enthusiast. Mentor (CommunityBridge, GoBridge). Blogger and speaker (At least trying to be one). 
