@@ -50,13 +50,13 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 22 August 2023
+From: 16 August 2023 - To: 23 August 2023
 
-Markdown         7 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.94 %
-ShellSession     3 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-C                3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Rust             2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Go               1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Markdown           8 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.12 %
+Rust               3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+ShellSession       2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+C                  2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Go                 1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
