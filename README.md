@@ -50,7 +50,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
 Go             8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 %
 Markdown       4 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
