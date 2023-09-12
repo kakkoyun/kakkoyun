@@ -50,7 +50,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 Go             3 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
 ShellSession   3 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
