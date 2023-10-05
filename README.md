@@ -65,6 +65,9 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Profiling Python and Ruby using eBPF](https://kakkoyun.me/posts/profiling-python-and-ruby-using-ebpf/) `October 4, 2023` 
+ > Originally published on polarsignals.com/blog on 04.10.2023
+https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf/
  - [Ice and Fire: How to read icicle and flame graphs](https://kakkoyun.me/posts/ice-and-fire/) `March 28, 2023` 
  > I am too lazy now a days to re-post the blog post with all its assets and animations here. So until I get to it, I have put a link to it here. Enjoy :&rpar;
 Originally published on polarsignals.com/blog on 28.03.2023
