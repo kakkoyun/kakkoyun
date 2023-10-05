@@ -29,7 +29,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://kakkoyun.me/index.xml"
-          max_post_count: 4
+          max_post_count: 5
           date_format: longDate
           template: "$newline - [$title]($url) `$date` $newline > $description"
           
