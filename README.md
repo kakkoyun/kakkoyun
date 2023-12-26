@@ -50,7 +50,7 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 ShellSession   2 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.79 %
 Markdown       1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
