@@ -50,9 +50,13 @@ For more visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 26 December 2023 - To: 02 January 2024
 
-No activity tracked
+ShellSession   2 hrs 38 mins   ████████████▓░░░░░░░░░░░░   51.32 %
+Makefile       33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+sh             32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Other          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+JSON           19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
