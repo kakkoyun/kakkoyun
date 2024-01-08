@@ -52,7 +52,7 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
 ShellSession   25 hrs 26 mins  ███████████████████▓░░░░░   78.12 %
 Makefile       2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
