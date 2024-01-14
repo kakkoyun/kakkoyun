@@ -52,7 +52,7 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
 Go             3 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.94 %
 ShellSession   1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
