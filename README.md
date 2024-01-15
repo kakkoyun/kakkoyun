@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![github](https://img.shields.io/github/followers/kakkoyun?logo=github&style=plastic)](https://github.com/kakkoyun?tab=followers)-->
 
 Reasoned Software Infrastructure Engineer. Performance Engineer. Site Reliability Engineer. System Programmer. Dealing with Observability, Reliability, and Performance. 
-🤔 Slow thinker. Open Source Enthusiast. Mentor (CommunityBridge, GoBridge). Blogger and speaker. 
+🤔 Slow thinker. Open Source Enthusiast. Mentor (CNCF LFX, Google Summer of Code, CommunityBridge, GoBridge). Blogger and speaker. 
 Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 
 🔭 I’m currently working on an eBPF-based profiler. Also, I help to build large-scale, distributed systems, observability infrastructure, and real-time data storage systems.
