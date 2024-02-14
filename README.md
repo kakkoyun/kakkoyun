@@ -92,6 +92,9 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 ### Talks
 <table>
 <!-- YOUTUBE-LIST:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=nNbU26CoMWA"><img width="90px" src="https://i.ytimg.com/vi/nNbU26CoMWA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=nNbU26CoMWA">FOSDEM 2024 - Profiling Python with eBPF: A New Frontier in Performance Analy...</a>
+<code>February 6, 2024</code></td></tr>
+
 <tr><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY"><img width="90px" src="https://i.ytimg.com/vi/qQpehBEOakY/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY">Prometheus Updates and Deep Dive - Kemal Akkoyun, Polar Signals &amp; Bryan Boreh...</a>
 <code>May 1, 2023</code></td></tr>
 
@@ -103,8 +106,5 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 <tr><td><a href="https://www.youtube.com/watch?v=g6B9Vbr88HM"><img width="90px" src="https://i.ytimg.com/vi/g6B9Vbr88HM/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=g6B9Vbr88HM">Achieving Zero-Instrumentation Monitoring with eBPF - Kemal Akkoyun, Polar Si...</a>
 <code>October 28, 2022</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=OlHQ6gkwqyA"><img width="90px" src="https://i.ytimg.com/vi/OlHQ6gkwqyA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=OlHQ6gkwqyA">GopherCon Europe 2022:  Kemal Akkoyun - Building a Go Profiler Using Go</a>
-<code>September 2, 2022</code></td></tr>
 <!-- YOUTUBE-LIST:END -->
 </table>
