@@ -52,13 +52,13 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 09 March 2024 - To: 16 March 2024
 
-Other          6 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   35.39 %
-C              5 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 %
-Markdown       2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-ShellSession   2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-sh             1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other          7 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 %
+C              5 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+ShellSession   2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Markdown       2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Go             2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
 ```
 
 <!--END_SECTION:waka-->
