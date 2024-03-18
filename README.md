@@ -67,6 +67,10 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
+ > A new chapter in my professional journey
+As the flowers bloom and the world awakens to the vibrant colors of spring, a season of renewal and growth, I find myself embarking on a significant transition in my professional journey. &lpar;Too cheesy? I know, but bear with me.&rpar;
+This year, I find myself absent from the vibrant buzz of KubeCon, a place of learning and connection that I hold dear. Instead, I&amp;rsquo;m on a different kind of duty — one that involves diapers and the joys of parenthood.
  - [Profiling Python and Ruby using eBPF](https://kakkoyun.me/posts/profiling-python-and-ruby-using-ebpf/) `October 4, 2023` 
  > Originally published on polarsignals.com/blog on 04.10.2023
 https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf/
@@ -82,10 +86,7 @@ The actual location of the symbolic information depends on the programming langu
  - [Fantastic Symbols and Where to Find Them - Part 1](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them/) `January 13, 2022` 
  > Originally published on polarsignals.com/blog on 13.01.2022
 Symbolization is a technique that allows you to translate machine memory addresses to human-readable symbol information &lpar;symbols&rpar;.
-Why do we need to read what programs do anyways? We usually do not need to translate everything to a human-readable format when things run smoothly. But when things go south, we need to understand what is going on under the hood. Symbolization is needed by introspection tools like debuggers, profilers and core dumps or any other program that needs to trace the execution of another program.
- - [Making Drone Builds 10 Times Faster!](https://kakkoyun.me/posts/making-drone-builds-10-times-faster/) `April 10, 2020` 
- > We open sourced drone-cache, a plugin for the popular Continuous Delivery platform Drone. It allows you to cache dependencies and interim files between builds to reduce your build times. This post explains why we are using Drone, why we needed a cache plugin, and what I learned while trying to release drone-cache as open source software.
-Read on for the story behind drone-cache or if you want to jump into action directly, go to the github.<!-- BLOG-POST-LIST:END -->
+Why do we need to read what programs do anyways? We usually do not need to translate everything to a human-readable format when things run smoothly. But when things go south, we need to understand what is going on under the hood. Symbolization is needed by introspection tools like debuggers, profilers and core dumps or any other program that needs to trace the execution of another program.<!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
