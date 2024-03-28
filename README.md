@@ -52,13 +52,13 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Python         5 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.83 %
-YAML           3 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 %
-Markdown       1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Bash           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Makefile       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Python         6 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.71 %
+YAML           4 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.44 %
+Markdown       1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Bash           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Makefile       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
