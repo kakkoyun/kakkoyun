@@ -52,7 +52,7 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2024 - To: 30 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
 Python         6 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.62 %
 YAML           4 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 %
