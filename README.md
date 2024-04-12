@@ -52,13 +52,13 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Other          35 hrs 9 mins   ████████████████████▓░░░░   82.87 %
-YAML           2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-River          1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-ShellSession   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Terraform      40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other          37 hrs 28 mins  ████████████████████░░░░░   80.30 %
+YAML           3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+ShellSession   1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+River          1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Terraform      40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
