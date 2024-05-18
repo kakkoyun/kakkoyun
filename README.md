@@ -52,13 +52,13 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-Other          14 hrs 26 mins  ████████████▓░░░░░░░░░░░░   51.22 %
-Python         5 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-YAML           2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-ShellSession   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Terraform      1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other             15 hrs 20 mins  ████████████▒░░░░░░░░░░░░   48.94 %
+Python            5 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+ShellSession      3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+YAML              2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+sh                1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->
