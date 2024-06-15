@@ -52,13 +52,13 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 13 June 2024
+From: 07 June 2024 - To: 14 June 2024
 
-Other          20 hrs 57 mins  ███████████████░░░░░░░░░░   59.57 %
-Markdown       4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Python         3 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-ShellSession   2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-sh             59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Other          19 hrs 40 mins  ███████████████▒░░░░░░░░░   61.70 %
+ShellSession   3 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Markdown       2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Python         2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Dockerfile     1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
