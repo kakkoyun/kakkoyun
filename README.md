@@ -52,7 +52,7 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2024 - To: 22 June 2024
+From: 16 June 2024 - To: 23 June 2024
 
 Other          18 hrs 32 mins  ██████████████▒░░░░░░░░░░   56.68 %
 ShellSession   4 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
