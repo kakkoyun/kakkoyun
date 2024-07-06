@@ -52,13 +52,9 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2024 - To: 03 July 2024
+From: 27 June 2024 - To: 04 July 2024
 
-Other        3 hrs 50 mins   ██████████████████████▒░░   88.72 %
-Go           26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Dockerfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+sh   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
