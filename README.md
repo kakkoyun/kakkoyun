@@ -52,13 +52,11 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-Markdown   2 hrs 52 mins   █████████████████████░░░░   84.14 %
-TOML       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Makefile   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Shell      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Markdown   3 hrs 12 mins   ██████████████████████▒░░   89.20 %
+TOML       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Other      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
