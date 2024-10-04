@@ -52,13 +52,13 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-Rust          6 hrs 18 mins   █████████████░░░░░░░░░░░░   51.74 %
-Other         2 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-Markdown      2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-TOML          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Python        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Rust          2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.02 %
+Other         1 hr 53 mins    ████████░░░░░░░░░░░░░░░░░   31.85 %
+Markdown      1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+Python        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+TOML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
