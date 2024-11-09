@@ -52,9 +52,9 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2024 - To: 06 November 2024
+From: 01 November 2024 - To: 08 November 2024
 
-Markdown   3 hrs 30 mins   █████████████████████████   100.00 %
+Markdown   1 hr 47 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
