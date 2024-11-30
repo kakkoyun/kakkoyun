@@ -42,7 +42,7 @@ Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
 🔭 I’m currently working on an eBPF-based profiler. Also, I help to build large-scale, distributed systems, observability infrastructure, and real-time data storage systems.
 🌱 I’m currently learning the internals of time-series and columnar databases, distributed systems, and building highly available systems.
 
-Sucker for @ziglang, @rust-lang, and @golang!
+Sucker for @ziglang, and @golang!
 
 For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 
