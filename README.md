@@ -64,31 +64,15 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
  - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
- &lt;p&gt;A new chapter in my professional journey&lt;/p&gt;
-&lt;p&gt;As the flowers bloom and the world awakens to the vibrant colors of spring, a season of renewal and growth, I find myself embarking on a significant transition in my professional journey. &lpar;Too cheesy? I know, but bear with me.&rpar;&lt;/p&gt;
-&lt;p&gt;This year, I find myself absent from the vibrant buzz of KubeCon, a place of learning and connection that I hold dear.
-Instead, I&amp;rsquo;m on a different kind of duty — one that involves diapers and the joys of parenthood.&lt;/p&gt;
+
  - [Profiling Python and Ruby using eBPF](https://kakkoyun.me/posts/profiling-python-and-ruby-using-ebpf/) `October 4, 2023` 
- &lt;p&gt;&lt;em&gt;Originally published on polarsignals.com/blog on 04.10.2023&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf/&lt;/a&gt;&lt;/p&gt;
+
  - [Ice and Fire: How to read icicle and flame graphs](https://kakkoyun.me/posts/ice-and-fire/) `March 28, 2023` 
- &lt;p&gt;I am too lazy now a days to re-post the blog post with all its assets and animations here. So until I get to it, I have put a link to it here. Enjoy :&rpar;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Originally published on polarsignals.com/blog on 28.03.2023&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs&lt;/a&gt;&lt;/p&gt;
+
  - [Fantastic Symbols and Where to Find Them - Part 2](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them-part-2/) `January 27, 2022` 
- &lt;blockquote&gt;
-&lt;p&gt;This is a blog post series. If you haven’t read &lt;a href=&quot;https://www.polarsignals.com/blog/posts/2022/01/13/fantastic-symbols-and-where-to-find-them&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Part 1&lt;/a&gt; we recommend you to do so first!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;Originally published on polarsignals.com/blog on 27.01.2022&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;In &lt;a href=&quot;https://www.polarsignals.com/blog/posts/2022/01/13/fantastic-symbols-and-where-to-find-them&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;the first blog post&lt;/a&gt;, we learned about the fantastic symbols &lpar;&lt;a href=&quot;https://en.wikipedia.org/wiki/Debug_symbol&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;debug symbols&lt;/a&gt;&rpar;, how the symbolization process works and lastly, how to find the symbolic names of addresses in a compiled binary.&lt;/p&gt;
-&lt;p&gt;The actual location of the symbolic information depends on the programming language implementation the program is written in.
-We can categorize the programming language implementations into three groups: compiled languages &lpar;with or without a runtime&rpar;, interpreted languages, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Just-in-time_compilation&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JIT-compiled&lt;/a&gt; languages.&lt;/p&gt;
+
  - [Fantastic Symbols and Where to Find Them - Part 1](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them/) `January 27, 2022` 
- &lt;p&gt;&lt;em&gt;Originally published on &lt;a href=&quot;https://www.polarsignals.com/blog/&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;polarsignals.com/blog&lt;/a&gt; on 13.01.2022&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Symbolization is a technique that allows you to translate machine memory addresses to human-readable symbol information &lpar;symbols&rpar;.&lt;/p&gt;
-&lt;p&gt;Why do we need to read what programs do anyways? We usually do not need to translate everything to a human-readable format when things run smoothly. But when things go south, we need to understand what is going on under the hood.
-Symbolization is needed by introspection tools like &lt;a href=&quot;https://en.wikipedia.org/wiki/Debugger&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;debuggers&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Profiling_%28computer_programming%29&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;profilers&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Core_dump&quot; class=&quot;external-link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;core dumps&lt;/a&gt; or any other program that needs to trace the execution of another program.
-While a target program is executing on a machine, these types of programs capture the stack traces of the program that is being executed.&lt;/p&gt;<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
