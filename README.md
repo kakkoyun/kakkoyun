@@ -52,9 +52,10 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Markdown   42 mins         █████████████████████████   100.00 %
+Markdown   1 hr 14 mins    █████████████████░░░░░░░░   68.64 %
+Other      34 mins         ████████░░░░░░░░░░░░░░░░░   31.36 %
 ```
 
 <!--END_SECTION:waka-->
