@@ -70,9 +70,9 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
  - [Ice and Fire: How to read icicle and flame graphs](https://kakkoyun.me/posts/ice-and-fire/) `March 28, 2023` 
 
- - [Fantastic Symbols and Where to Find Them - Part 2](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them-part-2/) `January 27, 2022` 
+ - [Story of Correlation: Integrating Thanos Metrics with Observability Signals](https://kakkoyun.me/posts/story-of-correlation-integrating-thanos-metrics/) `June 15, 2022` 
 
- - [Fantastic Symbols and Where to Find Them - Part 1](https://kakkoyun.me/posts/fantastic-symbols-and-where-to-find-them/) `January 27, 2022` 
+ - [eBPF? Safety First!](https://kakkoyun.me/posts/ebpf-safety-first/) `May 10, 2022` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
