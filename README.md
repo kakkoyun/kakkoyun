@@ -52,12 +52,12 @@ For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Markdown   6 hrs 7 mins    ████████████████░░░░░░░░░   64.45 %
-Other      3 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 %
-TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Groff      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown   6 hrs 38 mins   ████████████████▓░░░░░░░░   66.18 %
+Other      3 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   32.14 %
+TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Groff      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
