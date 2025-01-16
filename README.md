@@ -67,15 +67,15 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [When Hustle Culture and Personal Values Collide: Lessons from My Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
+
  - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
+
+ - [Profiling Python with eBPF: A New Frontier in Performance Analysis](https://kakkoyun.me/posts/profiling-python-with-ebpf/) `February 12, 2024` 
 
  - [Profiling Python and Ruby using eBPF](https://kakkoyun.me/posts/profiling-python-and-ruby-using-ebpf/) `October 4, 2023` 
 
  - [Ice and Fire: How to read icicle and flame graphs](https://kakkoyun.me/posts/ice-and-fire/) `March 28, 2023` 
-
- - [Story of Correlation: Integrating Thanos Metrics with Observability Signals](https://kakkoyun.me/posts/story-of-correlation-integrating-thanos-metrics/) `June 15, 2022` 
-
- - [eBPF? Safety First!](https://kakkoyun.me/posts/ebpf-safety-first/) `May 10, 2022` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
