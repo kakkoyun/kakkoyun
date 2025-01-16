@@ -35,16 +35,17 @@ Here are some ideas to get you started:
 <!--[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/kkakkoyun)
 [![github](https://img.shields.io/github/followers/kakkoyun?logo=github&style=plastic)](https://github.com/kakkoyun?tab=followers)-->
 
-Reasoned Software Infrastructure Engineer. Performance Engineer. Site Reliability Engineer. System Programmer. Dealing with Observability, Reliability, and Performance. 
-🤔 Slow thinker. Open Source Enthusiast. Mentor (CNCF LFX, Google Summer of Code, CommunityBridge, GoBridge). Blogger and speaker. 
-Introverted Human (not Cylon, I guess). 😄 Pronouns: He/Him or They/Them.
+Software Infrastructure Engineer | System Programmer | Performance Engineer. 
+Obsessed with Observability, Instrumentation, and low-level programming. 
+🤔 Slow thinker. Open Source Enthusiast. Mentor (CNCF LFX, Google Summer of Code, CommunityBridge, GoBridge). Blogger and speaker. Introverted Human (not Cylon, I guess). 
+😄 Pronouns: He/Him
 
-🔭 I’m currently working on an eBPF-based profiler. Also, I help to build large-scale, distributed systems, observability infrastructure, and real-time data storage systems.
-🌱 I’m currently learning the internals of time-series and columnar databases, distributed systems, and building highly available systems.
+🔭 Deep in the trenches of compile-time magic, runtime eBPF trickery, and tracing wizardry. Keeping a soft spot for profiling while tinkering with Go and its toolchain. 
+🌱 Still exploring distributed systems, time-series sorcery, and making machines sing in harmony.
 
-Sucker for @ziglang, and @golang!
+Powered by @golang, enchanted by @ziglang.
 
-For more, visit [kakkoyun.me/about](https://kakkoyun.me/about)
+Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 
 <!--a href="http://www.github.com/kakkoyun"><img src="https://github-readme-stats.vercel.app/api?username=kakkoyun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakkoyun's GitHub stats" /></a>
 <a href="http://www.github.com/kakkoyun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kakkoyun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
