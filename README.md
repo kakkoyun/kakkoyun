@@ -66,6 +66,8 @@ YAML          3 mins          ░░░░░░░░░░░░░░░░�
 
 Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
+---
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
  - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025` 
@@ -80,6 +82,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
+
+---
 
 ### Talks
 <table>
