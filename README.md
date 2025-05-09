@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 <!--[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/kkakkoyun)
 [![github](https://img.shields.io/github/followers/kakkoyun?logo=github&style=plastic)](https://github.com/kakkoyun?tab=followers)-->
 
-Software Infrastructure Engineer | System Programmer | Performance Engineer. 
-Obsessed with Observability, Instrumentation, and low-level programming. 
-🤔 Slow thinker. Open Source Enthusiast. Mentor (CNCF LFX, Google Summer of Code, CommunityBridge, GoBridge). Blogger and speaker. Introverted Human (not Cylon, I guess). 
+Software Infrastructure Engineer | System Programmer | Performance Engineer.
+Obsessed with Observability, Instrumentation, and low-level programming.
+🤔 Slow thinker. Open Source Enthusiast. Mentor (CNCF LFX, Google Summer of Code, CommunityBridge, GoBridge). Blogger and speaker. Introverted Human (not Cylon, I guess).
 😄 Pronouns: He/Him
 
-🔭 Deep in the trenches of Go compile-time magic, runtime eBPF trickery, and tracing wizardry. Keeping a soft spot for profiling while tinkering with Go and its toolchain. 
+🔭 Deep in the trenches of Go compile-time magic, runtime eBPF trickery, and tracing wizardry. Keeping a soft spot for profiling while tinkering with Go and its toolchain.
 🌱 Still exploring distributed systems, time-series (Prometheus) sorcery, and making machines sing in harmony.
 
 Powered by @golang, enchanted by @ziglang.
@@ -72,18 +72,25 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025` 
+ - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025`
 
- - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025` 
+ - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025`
 
- - [When Hustle Culture and Personal Values Collide: Lessons from My Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
+ - [When Hustle Culture and Personal Values Collide: Lessons from My Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024`
 
- - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
+ - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024`
 
- - [Profiling Python with eBPF: A New Frontier in Performance Analysis](https://kakkoyun.me/posts/profiling-python-with-ebpf/) `February 12, 2024` 
+ - [Profiling Python with eBPF: A New Frontier in Performance Analysis](https://kakkoyun.me/posts/profiling-python-with-ebpf/) `February 12, 2024`
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
+
+---
+
+### Notes
+<!-- NOTE-LIST:START -->
+
+<!-- NOTE-LIST:END -->
 
 ---
 

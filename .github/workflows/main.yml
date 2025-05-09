@@ -23,22 +23,35 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://kakkoyun.me/index.xml"
           max_post_count: 5
           date_format: longDate
           template: "$newline - [$title]($url) `$date` $newline"
-          
+
+  update-readme-with-notes:
+    name: Update this repo's README with latest notes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "NOTE-LIST"
+          feed_list: "https://kakkoyun.me/notes/rss.xml"
+          max_post_count: 5
+          remove_duplicates: true
+          # disable_sort: true
+          template: "$newline - [$title]($link) $newline"
+
+
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3P7-fer_ILLtH_ZtQDQhDAEgTo5r9OnB"
