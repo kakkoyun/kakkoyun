@@ -70,24 +70,24 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ---
 
-### Blog posts
+### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025` 
+ - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025`
 
- - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025` 
+ - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025`
 
- - [When Hustle Culture and Personal Values Collide: Lessons from My Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
+ - [When Hustle Culture and Personal Values Collide: Lessons from My Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024`
 
- - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
+ - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024`
 
- - [Profiling Python with eBPF: A New Frontier in Performance Analysis](https://kakkoyun.me/posts/profiling-python-with-ebpf/) `February 12, 2024` 
+ - [Profiling Python with eBPF: A New Frontier in Performance Analysis](https://kakkoyun.me/posts/profiling-python-with-ebpf/) `February 12, 2024`
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 ---
 
-### Notes
+### 📝 Notes
 <!-- NOTE-LIST:START -->
  - [FOSDEM24 - Profiling Python with eBPF - A New Frontier in Performance Analysis]($link) 
 
@@ -102,7 +102,7 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 ---
 
-### Talks
+### 🎤 Talks
 <table>
 <!-- YOUTUBE-LIST:START -->
 <tr><td><a href="https://www.youtube.com/watch?v=nNbU26CoMWA"><img width="90px" src="https://i.ytimg.com/vi/nNbU26CoMWA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=nNbU26CoMWA">FOSDEM 2024 - Profiling Python with eBPF: A New Frontier in Performance Analy...</a>
