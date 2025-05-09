@@ -42,7 +42,7 @@ jobs:
           feed_list: "https://kakkoyun.me/notes/rss.xml"
           max_post_count: 5
           remove_duplicates: true
-          # disable_sort: true
+          disable_sort: true
           template: "$newline - [$title]($link) $newline"
 
 
