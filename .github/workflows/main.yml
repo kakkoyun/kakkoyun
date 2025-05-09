@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update this repo's README with Wakatime data
+    name: Wakatime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -20,7 +20,7 @@ jobs:
           SHOW_TITLE: true
 
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Blog Posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -32,7 +32,7 @@ jobs:
           template: "$newline - [$title]($url) `$date` $newline"
 
   update-readme-with-notes:
-    name: Update this repo's README with latest notes
+    name: Notes
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -47,7 +47,7 @@ jobs:
 
 
   update-readme-with-youtube:
-    name: Update this repo's README with latest videos from YouTube
+    name: YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
