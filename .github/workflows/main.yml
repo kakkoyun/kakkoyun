@@ -43,7 +43,7 @@ jobs:
           max_post_count: 5
           remove_duplicates: true
           disable_sort: true
-          template: "$newline - [$title]($link) $newline"
+          template: "$newline - [$title]($url) $newline"
 
 
   update-readme-with-youtube:
