@@ -89,7 +89,15 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 ### Notes
 <!-- NOTE-LIST:START -->
+ - [FOSDEM24 - Profiling Python with eBPF - A New Frontier in Performance Analysis]($link) 
 
+ - [Berlin DevOps Meetup 2024022 - Modernizing CICD Pipelines]($link) 
+
+ - [Profiling Python with eBPF]($link) 
+
+ - [CachyOS - My New Dev Machine Distro]($link) 
+
+ - [GPU Profiling]($link) 
 <!-- NOTE-LIST:END -->
 
 ---
