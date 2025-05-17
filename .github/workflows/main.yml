@@ -44,6 +44,7 @@ jobs:
           remove_duplicates: true
           disable_sort: true
           sort_order: 'desc'
+          reverse_order: true
           template: "$newline - [$title]($url) $newline"
 
 
