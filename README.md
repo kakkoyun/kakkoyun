@@ -89,15 +89,15 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 ### 📝 Notes
 <!-- NOTE-LIST:START -->
- - [FOSDEM24 - Profiling Python with eBPF - A New Frontier in Performance Analysis](https://kakkoyun.me/notes/presentations/FOSDEM24+-+Profiling+Python+with+eBPF+-+A+New+Frontier+in+Performance+Analysis) 
+ - [Tsundoku - Wikipedia](https://kakkoyun.me/notes/resources/clippings/articles/books/Tsundoku+-+Wikipedia) 
 
- - [Berlin DevOps Meetup 2024022 - Modernizing CICD Pipelines](https://kakkoyun.me/notes/presentations/Berlin+DevOps+Meetup+2024022+-+Modernizing+CICD+Pipelines) 
+ - [Open Telemetry - Go](https://kakkoyun.me/notes/curation/bookmarks/Open+Telemetry+-+Go) 
 
- - [Profiling Python with eBPF](https://kakkoyun.me/notes/presentations/Profiling+Python+with+eBPF) 
+ - [Go - Advance Static Checks](https://kakkoyun.me/notes/curation/bookmarks/Go+-+Advance+Static+Checks) 
 
- - [About this page](https://kakkoyun.me/notes/About+this+page) 
+ - [Go - Talks](https://kakkoyun.me/notes/curation/bookmarks/Go+-+Talks) 
 
- - [Tweets From Kakkoyun](https://kakkoyun.me/notes/curation/readwise/tweets/Tweets+From+Kakkoyun) 
+ - [Learning Zig](https://kakkoyun.me/notes/curation/bookmarks/Learning+Zig) 
 <!-- NOTE-LIST:END -->
 
 ---
