@@ -43,6 +43,7 @@ jobs:
           max_post_count: 5
           remove_duplicates: true
           disable_sort: true
+          sort_order: 'desc'
           template: "$newline - [$title]($url) $newline"
 
 
