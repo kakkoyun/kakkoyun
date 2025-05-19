@@ -55,13 +55,13 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2025 - To: 17 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
-Other           11 hrs 33 mins  ███████████▒░░░░░░░░░░░░░   45.50 %
-Go              6 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Markdown        4 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-YAML            59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-JSON            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Other           11 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   46.11 %
+Go              6 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Markdown        4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+JSON            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+YAML            51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
