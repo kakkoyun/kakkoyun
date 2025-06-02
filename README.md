@@ -55,7 +55,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
 Go              7 hrs           ████████▓░░░░░░░░░░░░░░░░   34.74 %
 Markdown        5 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
