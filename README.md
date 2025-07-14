@@ -55,7 +55,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
 Go            4 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
 Other         4 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   34.62 %
