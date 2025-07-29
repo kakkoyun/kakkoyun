@@ -55,9 +55,11 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2025 - To: 27 July 2025
+From: 21 July 2025 - To: 28 July 2025
 
-No activity tracked
+Markdown   27 mins         ███████████████▒░░░░░░░░░   60.85 %
+Other      17 mins         █████████▒░░░░░░░░░░░░░░░   37.60 %
+Go         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
