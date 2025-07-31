@@ -74,7 +74,7 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
  - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025` 
 
- - [When Hustle Culture and Personal Values Collide: Lessons from My Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
+ - [When Hustle Culture and Personal Values Collide: Lessons from My AI/ML Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
 
  - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
 
