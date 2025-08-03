@@ -55,7 +55,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 01 August 2025
+From: 26 July 2025 - To: 02 August 2025
 
 Go            4 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
 YAML          3 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.87 %
