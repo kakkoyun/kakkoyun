@@ -55,9 +55,11 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-No activity tracked
+Other   11 mins         ██████████████████████▓░░   90.82 %
+Go      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
