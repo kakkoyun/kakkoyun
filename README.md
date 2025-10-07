@@ -55,13 +55,13 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Go              11 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.95 %
-Other           2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-YAML            1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Prompt          1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Makefile        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Go              7 hrs 59 mins   █████████████░░░░░░░░░░░░   52.36 %
+Other           3 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+YAML            1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Prompt          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Makefile        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
