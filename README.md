@@ -55,7 +55,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
 Go              4 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.65 %
 Prompt          2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
