@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
 <table border="0">
   <tbody>
     <tr valign="top">
@@ -40,10 +38,21 @@ Obsessed with Observability, Instrumentation, and low-level programming.
 🤔 Slow thinker. Open Source Enthusiast. Mentor (CNCF LFX, Google Summer of Code, CommunityBridge, GoBridge). Blogger and speaker. Introverted Human (not Cylon, I guess).
 😄 Pronouns: He/Him
 
-🔭 Deep in the trenches of Go compile-time magic, runtime eBPF trickery, and tracing wizardry. Keeping a soft spot for profiling while tinkering with Go and its toolchain.
-🌱 Still exploring distributed systems, time-series (Prometheus) sorcery, and making machines sing in harmony.
+🔭 Deep in the trenches of Go runtime and compiler internals, building AST manipulation tools for injecting instrumentation systems. Working on Go instrumentation and profiling at Datadog APM. Keeping a soft spot for profiling while tinkering with Go and its toolchain.
+🌱 Exploring engineering leadership, LLM internals, and automating Personal Knowledge Management with Claude Code and MCPs.
 
-Powered by @golang, enchanted by @ziglang.
+### Current Projects
+
+- **[OpenTelemetry Go Compile Instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation)** - Prototype compile-time instrumentation for Go, exploring zero-touch observability
+- **[Datadog Orchestrion](https://github.com/DataDog/orchestrion)** - Source-based compile-time instrumentation for Go, enabling deep APM without manual code changes
+- **[Datadog dd-trace-go](https://github.com/DataDog/dd-trace-go)** - Datadog APM tracing client for Go
+- **[Prometheus client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications
+
+### Hobby Tech
+
+Raspberry Pi cluster experiments | Flipper Zero hardware hacking | Gravel cycling adventures
+
+Powered by @golang.
 
 Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 
@@ -72,15 +81,15 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [talk: Unleashing the Go Toolchain](https://kakkoyun.me/talks/unleashing-the-go-toolchain/) `August 15, 2025` 
+- [talk: Unleashing the Go Toolchain](https://kakkoyun.me/talks/unleashing-the-go-toolchain/) `August 15, 2025`
 
- - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025` 
+- [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025`
 
- - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025` 
+- [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025`
 
- - [When Hustle Culture and Personal Values Collide: Lessons from My AI/ML Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
+- [When Hustle Culture and Personal Values Collide: Lessons from My AI/ML Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024`
 
- - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
+- [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024`
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
@@ -89,20 +98,21 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 ### 📝 Notes
 <!-- NOTE-LIST:START -->
- - [books](https://kakkoyun.me/notes/curation/books/books) 
+- [books](https://kakkoyun.me/notes/curation/books/books)
 
- - [CachyOS - My New Dev Machine Distro 1](https://kakkoyun.me/notes/creation/ramblings/cachy-os-my-new-dev-machine-distro-1) 
+- [CachyOS - My New Dev Machine Distro 1](https://kakkoyun.me/notes/creation/ramblings/cachy-os-my-new-dev-machine-distro-1)
 
- - [Tsundoku - Wikipedia](https://kakkoyun.me/notes/curation/clippings/articles/books/tsundoku-wikipedia) 
+- [Tsundoku - Wikipedia](https://kakkoyun.me/notes/curation/clippings/articles/books/tsundoku-wikipedia)
 
- - [Open Telemetry - Go](https://kakkoyun.me/notes/resources/bookmarks/open-telemetry-go) 
+- [Open Telemetry - Go](https://kakkoyun.me/notes/resources/bookmarks/open-telemetry-go)
 
- - [Go - Advance Static Checks](https://kakkoyun.me/notes/curation/bookmarks/go-advance-static-checks) 
+- [Go - Advance Static Checks](https://kakkoyun.me/notes/curation/bookmarks/go-advance-static-checks)
 <!-- NOTE-LIST:END -->
 
 ---
 
 ### 🎤 Talks
+
 <table>
 <!-- YOUTUBE-LIST:START -->
 <tr><td><a href="https://www.youtube.com/watch?v=8Rw-fVEjihw"><img width="90px" src="https://i.ytimg.com/vi/8Rw-fVEjihw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=8Rw-fVEjihw">Unleashing the Go Toolchain - Kemal Akkoyun</a>
@@ -181,4 +191,5 @@ f0D/QordQaUmE/K/
 =zKIC
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 </details>
