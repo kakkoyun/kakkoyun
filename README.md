@@ -64,7 +64,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
 Prompt        4 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
 Other         3 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   20.02 %
