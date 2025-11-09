@@ -64,7 +64,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
 Other         4 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
 YAML          3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
