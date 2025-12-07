@@ -64,7 +64,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2025 - To: 05 December 2025
+From: 29 November 2025 - To: 06 December 2025
 
 Other         7 hrs 49 mins   ██████████████▓░░░░░░░░░░   58.27 %
 Go            2 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
