@@ -64,12 +64,9 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Other      3 hrs 42 mins   ███████████████████▓░░░░░   78.91 %
-YAML       40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Go         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other   22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
