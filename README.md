@@ -64,13 +64,13 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Other         1 hr 9 mins     ███████████░░░░░░░░░░░░░░   43.69 %
-Markdown      57 mins         █████████░░░░░░░░░░░░░░░░   36.56 %
-Makefile      23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-YAML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Ignore List   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Markdown      57 mins         ██████████▓░░░░░░░░░░░░░░   42.64 %
+Other         46 mins         ████████▓░░░░░░░░░░░░░░░░   34.34 %
+Makefile      23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+YAML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Ignore List   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
