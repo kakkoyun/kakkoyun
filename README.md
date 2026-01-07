@@ -64,9 +64,13 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-No activity tracked
+Other         6 hrs 27 mins   ████████████░░░░░░░░░░░░░   48.23 %
+Markdown      3 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+Go            2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+JSON          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+YAML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
