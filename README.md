@@ -115,6 +115,9 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 <table>
 <!-- YOUTUBE-LIST:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=0TvrSebuDPk"><img width="90px" src="https://i.ytimg.com/vi/0TvrSebuDPk/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=0TvrSebuDPk">FOSDEM 2026 - How to instrument Go without changing a single line of code</a>
+<code>February 9, 2026</code></td></tr>
+
 <tr><td><a href="https://www.youtube.com/watch?v=8Rw-fVEjihw"><img width="90px" src="https://i.ytimg.com/vi/8Rw-fVEjihw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=8Rw-fVEjihw">Unleashing the Go Toolchain - Kemal Akkoyun</a>
 <code>September 18, 2025</code></td></tr>
 
@@ -126,9 +129,6 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 <tr><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc"><img width="90px" src="https://i.ytimg.com/vi/R3DxZWEdJkc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc">Making Go More Efficient &lpar;Go Time Live!&rpar;</a>
 <code>December 7, 2022</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=B6Ds2myOIRc"><img width="90px" src="https://i.ytimg.com/vi/B6Ds2myOIRc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=B6Ds2myOIRc">PromCon EU 2022: Best Practices and Pitfalls of Instrumenting Your Cloud-Nati...</a>
-<code>November 24, 2022</code></td></tr>
 <!-- YOUTUBE-LIST:END -->
 </table>
 
