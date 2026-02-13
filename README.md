@@ -81,6 +81,12 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [FOSDEM 2026: Even Bigger, Even Better](https://kakkoyun.me/posts/fosdem-2026/) `February 13, 2026` 
+
+ - [talk: How to Instrument Go Without Changing a Single Line of Code](https://kakkoyun.me/talks/how-to-instrument-go-without-changing-code/) `February 13, 2026` 
+
+ - [talk: How to Reliably Measure Software Performance](https://kakkoyun.me/talks/how-to-reliably-measure-software-performance/) `February 13, 2026` 
+
  - [Fix Go Module Downloads Behind a Corporate VPN](https://kakkoyun.me/posts/goproxy-fallback-behind-vpn/) `February 12, 2026` 
 
  - [Stop Putting API Keys in Your Shell Config](https://kakkoyun.me/posts/stop-putting-api-keys-in-shell-config/) `February 12, 2026` 
@@ -90,6 +96,10 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025` 
 
  - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025` 
+
+ - [When Hustle Culture and Personal Values Collide: Lessons from My AI/ML Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
+
+ - [I left Polar Signals or A new chapter in my professional journey](https://kakkoyun.me/posts/i-left-polar-signals/) `March 18, 2024` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
