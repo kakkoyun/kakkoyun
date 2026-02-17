@@ -113,6 +113,9 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 <table>
 <!-- YOUTUBE-LIST:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=8211fNI_nc4"><img width="90px" src="https://i.ytimg.com/vi/8211fNI_nc4/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=8211fNI_nc4">FOSDEM 2026 - How to Reliably Measure Software Performance</a>
+<code>February 16, 2026</code></td></tr>
+
 <tr><td><a href="https://www.youtube.com/watch?v=0TvrSebuDPk"><img width="90px" src="https://i.ytimg.com/vi/0TvrSebuDPk/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=0TvrSebuDPk">FOSDEM 2026 - How to instrument Go without changing a single line of code</a>
 <code>February 9, 2026</code></td></tr>
 
@@ -124,9 +127,6 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 <tr><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY"><img width="90px" src="https://i.ytimg.com/vi/qQpehBEOakY/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY">Prometheus Updates and Deep Dive - Kemal Akkoyun, Polar Signals &amp; Bryan Boreh...</a>
 <code>May 1, 2023</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc"><img width="90px" src="https://i.ytimg.com/vi/R3DxZWEdJkc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc">Making Go More Efficient &lpar;Go Time Live!&rpar;</a>
-<code>December 7, 2022</code></td></tr>
 <!-- YOUTUBE-LIST:END -->
 </table>
 
