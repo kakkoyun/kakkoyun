@@ -41,6 +41,8 @@ Obsessed with Observability, Instrumentation, and low-level programming.
 🔭 Deep in the trenches of Go runtime and compiler internals, building AST manipulation tools for injecting instrumentation systems. Working on Go instrumentation and profiling at Datadog APM. Keeping a soft spot for profiling while tinkering with Go and its toolchain.
 🌱 Exploring engineering leadership, LLM internals, and automating Personal Knowledge Management with Claude Code and MCPs.
 
+---
+
 ### Current Projects
 
 - **[OpenTelemetry Go Compile Instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation)** - Prototype compile-time instrumentation for Go, exploring zero-touch observability
@@ -48,7 +50,9 @@ Obsessed with Observability, Instrumentation, and low-level programming.
 - **[Datadog dd-trace-go](https://github.com/DataDog/dd-trace-go)** - Datadog APM tracing client for Go
 - **[Prometheus client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications
 
-### Hobby Tech
+---
+
+#### Hobby Tech
 
 Raspberry Pi cluster experiments | Flipper Zero hardware hacking | Gravel cycling adventures
 
