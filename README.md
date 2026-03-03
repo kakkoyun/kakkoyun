@@ -85,6 +85,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Auto-Instrumenting Go: From eBPF to USDT Probes](https://kakkoyun.me/posts/fosdem-2026-auto-instrumenting-go/) `February 27, 2026` 
+
  - [OTel Unplugged EU 2026: Field Notes from the Instrumentation Frontier](https://kakkoyun.me/posts/otel-unplugged-eu-2026/) `February 20, 2026` 
 
  - [FOSDEM 2026: Even Bigger, Even Better](https://kakkoyun.me/posts/fosdem-2026/) `February 13, 2026` 
@@ -102,8 +104,6 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [Vibe Coding with Cursor: My R&amp;D Week Adventure 🚀](https://kakkoyun.me/posts/2024-03-21-vibe-coding-with-cursor/) `March 12, 2025` 
 
  - [FOSDEM 2025: Blimey, What a Weekend!](https://kakkoyun.me/posts/fosdem-2025/) `February 4, 2025` 
-
- - [When Hustle Culture and Personal Values Collide: Lessons from My AI/ML Startup Journey](https://kakkoyun.me/posts/hustle-culture-startup-lessons/) `October 16, 2024` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
