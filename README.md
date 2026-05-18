@@ -52,9 +52,9 @@ Obsessed with Observability, Instrumentation, and low-level programming.
 
 ---
 
-#### Hobby Tech
+#### Outside work
 
-Raspberry Pi cluster experiments | Flipper Zero hardware hacking | Gravel cycling adventures
+Raspberry Pi cluster experiments | Local LLMs Runners | Gravel cycling adventures | Hyrox
 
 Powered by @golang.
 
