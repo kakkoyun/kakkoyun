@@ -87,6 +87,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 <!-- BLOG-POST-LIST:START -->
  - [From talk to docs: The Zen of Prometheus](https://kakkoyun.me/posts/from-talk-to-docs-the-zen-of-prometheus/) `May 15, 2026` 
 
+ - [The Unwind #1: Cold start](https://kakkoyun.me/newsletter/the-unwind/issue-001/) `May 13, 2026` 
+
  - [Measuring Software Performance: Why Your Benchmarks Are Probably Lying](https://kakkoyun.me/posts/fosdem-2026-measuring-software-performance/) `March 6, 2026` 
 
  - [Auto-Instrumenting Go: From eBPF to USDT Probes](https://kakkoyun.me/posts/fosdem-2026-auto-instrumenting-go/) `February 27, 2026` 
@@ -102,8 +104,6 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [Fix Go Module Downloads Behind a Corporate VPN](https://kakkoyun.me/posts/goproxy-fallback-behind-vpn/) `February 12, 2026` 
 
  - [Stop Putting API Keys in Your Shell Config](https://kakkoyun.me/posts/stop-putting-api-keys-in-shell-config/) `February 12, 2026` 
-
- - [talk: Unleashing the Go Toolchain](https://kakkoyun.me/talks/unleashing-the-go-toolchain/) `August 15, 2025` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
