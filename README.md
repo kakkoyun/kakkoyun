@@ -85,6 +85,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Mentorship in Open Source — Part 2: The Mentee Playbook](https://kakkoyun.me/posts/mentorship-in-open-source-part-2-mentee-playbook/) `May 29, 2026` 
+
  - [Why I Keep Mentoring in Open Source](https://kakkoyun.me/posts/mentorship-in-open-source/) `May 22, 2026` 
 
  - [From talk to docs: The Zen of Prometheus](https://kakkoyun.me/posts/from-talk-to-docs-the-zen-of-prometheus/) `May 15, 2026` 
@@ -102,8 +104,6 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [talk: How to Instrument Go Without Changing a Single Line of Code](https://kakkoyun.me/talks/how-to-instrument-go-without-changing-code/) `February 13, 2026` 
 
  - [talk: How to Reliably Measure Software Performance](https://kakkoyun.me/talks/how-to-reliably-measure-software-performance/) `February 13, 2026` 
-
- - [Fix Go Module Downloads Behind a Corporate VPN](https://kakkoyun.me/posts/goproxy-fallback-behind-vpn/) `February 12, 2026` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
