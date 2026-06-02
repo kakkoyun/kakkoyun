@@ -68,7 +68,7 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
 Other        7 hrs 33 mins         ████████████████▒░░░░░░░░   64.68 %
 Markdown     3 hrs 16 mins         ███████░░░░░░░░░░░░░░░░░░   27.96 %
