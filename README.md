@@ -68,13 +68,13 @@ Learn more at [kakkoyun.me/about](https://kakkoyun.me/about)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Other         5 hrs 48 mins         ██████████▓░░░░░░░░░░░░░░   43.04 %
-Go            3 hrs 18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-Markdown      2 hrs 33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-JSON          38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-YAML          29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Other         6 hrs 1 min           █████████████▓░░░░░░░░░░░   54.15 %
+Go            2 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Markdown      1 hr 10 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+JSON          36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+YAML          29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
