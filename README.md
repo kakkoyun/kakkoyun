@@ -85,6 +85,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [My Second Brain System: PARA, Readwise, and an LLM captures my thoughts](https://kakkoyun.me/posts/second-brain-system/) `August 21, 2026` 
+
  - [Mentorship in Open Source — Part 3: Stewardship Inside OpenTelemetry](https://kakkoyun.me/posts/mentorship-in-open-source-part-3-stewardship/) `June 5, 2026` 
 
  - [Mentorship in Open Source — Part 2: The Mentee Playbook](https://kakkoyun.me/posts/mentorship-in-open-source-part-2-mentee-playbook/) `May 29, 2026` 
@@ -102,8 +104,6 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [FOSDEM 2026: Even Bigger, Even Better](https://kakkoyun.me/posts/fosdem-2026/) `February 13, 2026` 
 
  - [Fix Go Module Downloads Behind a Corporate VPN](https://kakkoyun.me/posts/goproxy-fallback-behind-vpn/) `February 12, 2026` 
-
- - [Stop Putting API Keys in Your Shell Config](https://kakkoyun.me/posts/stop-putting-api-keys-in-shell-config/) `February 12, 2026` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
