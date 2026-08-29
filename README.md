@@ -85,6 +85,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [New world as an ADHD person](https://kakkoyun.me/posts/adhd-new-world/) `August 28, 2026` 
+
  - [My Second Brain System: PARA, Readwise, and an LLM captures my thoughts](https://kakkoyun.me/posts/second-brain-system/) `August 21, 2026` 
 
  - [Mentorship in Open Source — Part 3: Stewardship Inside OpenTelemetry](https://kakkoyun.me/posts/mentorship-in-open-source-part-3-stewardship/) `June 5, 2026` 
@@ -102,8 +104,6 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [OTel Unplugged EU 2026: Field Notes from the Instrumentation Frontier](https://kakkoyun.me/posts/otel-unplugged-eu-2026/) `February 20, 2026` 
 
  - [FOSDEM 2026: Even Bigger, Even Better](https://kakkoyun.me/posts/fosdem-2026/) `February 13, 2026` 
-
- - [Fix Go Module Downloads Behind a Corporate VPN](https://kakkoyun.me/posts/goproxy-fallback-behind-vpn/) `February 12, 2026` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
