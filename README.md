@@ -117,20 +117,20 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 
 <table>
 <!-- YOUTUBE-LIST:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=tidmOddZOao"><img width="90px" src="https://i.ytimg.com/vi/tidmOddZOao/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=tidmOddZOao">Instrument Go Without Changing a Single Line – Kemal Akkoyun</a>
+<code>August 25, 2026</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=SMNflDmiYbI"><img width="90px" src="https://i.ytimg.com/vi/SMNflDmiYbI/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=SMNflDmiYbI">Why Your Go Benchmarks Are Lying – Kemal Akkoyun</a>
+<code>August 25, 2026</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=EVpax0L5GgQ"><img width="90px" src="https://i.ytimg.com/vi/EVpax0L5GgQ/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=EVpax0L5GgQ">Quick GopherCon recap, and interview with Kemal of Datadog</a>
+<code>August 11, 2026</code></td></tr>
+
+<tr><td><a href="https://www.youtube.com/watch?v=8211fNI_nc4"><img width="90px" src="https://i.ytimg.com/vi/8211fNI_nc4/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=8211fNI_nc4">FOSDEM 2026 - How to Reliably Measure Software Performance</a>
+<code>February 16, 2026</code></td></tr>
+
 <tr><td><a href="https://www.youtube.com/watch?v=0TvrSebuDPk"><img width="90px" src="https://i.ytimg.com/vi/0TvrSebuDPk/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=0TvrSebuDPk">FOSDEM 2026 - How to instrument Go without changing a single line of code</a>
 <code>February 9, 2026</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=8Rw-fVEjihw"><img width="90px" src="https://i.ytimg.com/vi/8Rw-fVEjihw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=8Rw-fVEjihw">Unleashing the Go Toolchain - Kemal Akkoyun</a>
-<code>September 18, 2025</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=nNbU26CoMWA"><img width="90px" src="https://i.ytimg.com/vi/nNbU26CoMWA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=nNbU26CoMWA">FOSDEM 2024 - Profiling Python with eBPF: A New Frontier in Performance Analy...</a>
-<code>February 6, 2024</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY"><img width="90px" src="https://i.ytimg.com/vi/qQpehBEOakY/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qQpehBEOakY">Prometheus Updates and Deep Dive - Kemal Akkoyun, Polar Signals &amp; Bryan Boreh...</a>
-<code>May 1, 2023</code></td></tr>
-
-<tr><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc"><img width="90px" src="https://i.ytimg.com/vi/R3DxZWEdJkc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=R3DxZWEdJkc">Making Go More Efficient &lpar;Go Time Live!&rpar;</a>
-<code>December 7, 2022</code></td></tr>
 <!-- YOUTUBE-LIST:END -->
 </table>
 
