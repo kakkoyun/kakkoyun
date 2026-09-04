@@ -118,7 +118,7 @@ For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
 <table>
 <!-- YOUTUBE-LIST:START -->
 <tr><td><a href="https://www.youtube.com/watch?v=z4jCyGFhGW4"><img width="90px" src="https://i.ytimg.com/vi/z4jCyGFhGW4/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=z4jCyGFhGW4">OpenTelemetry Go Compile-Time Instrumentation in Practice</a>
-<code>August 31, 2026</code></td></tr>
+<code>September 3, 2026</code></td></tr>
 
 <tr><td><a href="https://www.youtube.com/watch?v=tidmOddZOao"><img width="90px" src="https://i.ytimg.com/vi/tidmOddZOao/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=tidmOddZOao">Instrument Go Without Changing a Single Line – Kemal Akkoyun</a>
 <code>August 25, 2026</code></td></tr>
