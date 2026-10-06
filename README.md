@@ -89,21 +89,21 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
  - [My Second Brain System: PARA, Readwise, and an LLM captures my thoughts](https://kakkoyun.me/posts/second-brain-system/) `August 21, 2026` 
 
- - [Mentorship in Open Source — Part 3: Stewardship Inside OpenTelemetry](https://kakkoyun.me/posts/mentorship-in-open-source-part-3-stewardship/) `June 5, 2026` 
+ - [Making zero-touch Go observability agent-actionable](https://kakkoyun.me/posts/zero-touch-go-observability-agent-actionable/) `August 6, 2026` 
 
- - [Mentorship in Open Source — Part 2: The Mentee Playbook](https://kakkoyun.me/posts/mentorship-in-open-source-part-2-mentee-playbook/) `May 29, 2026` 
+ - [Three Questions Before You Trust a Benchmark](https://kakkoyun.me/posts/go-benchmarks-lying-three-questions/) `August 4, 2026` 
 
- - [Why I Keep Mentoring in Open Source](https://kakkoyun.me/posts/mentorship-in-open-source/) `May 22, 2026` 
+ - [A/B is the wrong model for CI](https://kakkoyun.me/posts/go-benchmarks-ab-is-the-wrong-model/) `August 1, 2026` 
 
- - [From talk to docs: The Zen of Prometheus](https://kakkoyun.me/posts/from-talk-to-docs-the-zen-of-prometheus/) `May 15, 2026` 
+ - [A PR gate that actually fails](https://kakkoyun.me/posts/go-benchmarks-pr-gate-that-fails/) `July 31, 2026` 
 
- - [Measuring Software Performance: Why Your Benchmarks Are Probably Lying](https://kakkoyun.me/posts/fosdem-2026-measuring-software-performance/) `March 6, 2026` 
+ - [Go runtime futures: flight recording, USDT, and the instrumentation hook problem](https://kakkoyun.me/posts/go-runtime-futures-flight-recording-usdt/) `July 30, 2026` 
 
- - [Auto-Instrumenting Go: From eBPF to USDT Probes](https://kakkoyun.me/posts/fosdem-2026-auto-instrumenting-go/) `February 27, 2026` 
+ - [Benchmark CI That Doesn&#39;t Lie](https://kakkoyun.me/posts/go-benchmarks-lying-ci/) `July 28, 2026` 
 
- - [OTel Unplugged EU 2026: Field Notes from the Instrumentation Frontier](https://kakkoyun.me/posts/otel-unplugged-eu-2026/) `February 20, 2026` 
+ - [Context across goroutines and connections](https://kakkoyun.me/posts/go-context-across-goroutines/) `July 27, 2026` 
 
- - [FOSDEM 2026: Even Bigger, Even Better](https://kakkoyun.me/posts/fosdem-2026/) `February 13, 2026` 
+ - [See it run: OBI and the eBPF profiler without Kubernetes](https://kakkoyun.me/posts/go-instrumentation-see-it-run/) `July 25, 2026` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
