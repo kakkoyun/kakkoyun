@@ -13,18 +13,19 @@ jobs:
     name: Wakatime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           SHOW_TITLE: true
 
   update-readme-with-blog:
     name: Blog Posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      # gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # yamllint disable-line rule:line-length
         with:
           feed_list: "https://kakkoyun.me/index.xml"
           max_post_count: 10
@@ -52,8 +53,9 @@ jobs:
     name: YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      # gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # yamllint disable-line rule:line-length
         with:
           comment_tag_name: "YOUTUBE-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL3P7-fer_ILLtH_ZtQDQhDAEgTo5r9OnB"
@@ -62,3 +64,7 @@ jobs:
           title_max_length: 77 # 80 - ...
           date_format: longDate
           template: '$newline<tr><td><a href="$url"><img width="90px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td><td><a href="$url">$title</a>$newline<code>$date</code></td></tr>$newline'
+          # YouTube intermittently returns 404 for feed requests from
+          # datacenter IPs. Retries absorb those transient failures.
+          retry_count: 5
+          retry_wait_time: 30
