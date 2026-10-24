@@ -85,6 +85,8 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Parkinson&#39;s Law in Reverse: Garbage Collecting My Work Before a Team Change](https://kakkoyun.me/posts/parkinsons-law-in-reverse/) `October 23, 2026` 
+
  - [New world as an ADHD person](https://kakkoyun.me/posts/adhd-new-world/) `August 28, 2026` 
 
  - [My Second Brain System: PARA, Readwise, and an LLM captures my thoughts](https://kakkoyun.me/posts/second-brain-system/) `August 21, 2026` 
@@ -102,8 +104,6 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
  - [Benchmark CI That Doesn&#39;t Lie](https://kakkoyun.me/posts/go-benchmarks-lying-ci/) `July 28, 2026` 
 
  - [Context across goroutines and connections](https://kakkoyun.me/posts/go-context-across-goroutines/) `July 27, 2026` 
-
- - [See it run: OBI and the eBPF profiler without Kubernetes](https://kakkoyun.me/posts/go-instrumentation-see-it-run/) `July 25, 2026` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
