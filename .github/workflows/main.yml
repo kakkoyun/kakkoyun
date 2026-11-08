@@ -23,7 +23,7 @@ jobs:
     name: Blog Posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
       # gautamkrishnar/blog-post-workflow@v1
       - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # yamllint disable-line rule:line-length
         with:
@@ -53,7 +53,7 @@ jobs:
     name: YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
       # gautamkrishnar/blog-post-workflow@v1
       - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # yamllint disable-line rule:line-length
         with:
