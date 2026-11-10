@@ -85,25 +85,25 @@ Further details [wakatime.com/@kemal](https://wakatime.com/@kemal)
 
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [Parkinson&#39;s Law in Reverse: Garbage Collecting My Work Before a Team Change](https://kakkoyun.me/posts/parkinsons-law-in-reverse/) `October 23, 2026` 
-
  - [New world as an ADHD person](https://kakkoyun.me/posts/adhd-new-world/) `August 28, 2026` 
 
  - [My Second Brain System: PARA, Readwise, and an LLM captures my thoughts](https://kakkoyun.me/posts/second-brain-system/) `August 21, 2026` 
 
- - [Making zero-touch Go observability agent-actionable](https://kakkoyun.me/posts/zero-touch-go-observability-agent-actionable/) `August 6, 2026` 
+ - [podcast: Cup o&#39; Go — Instrumentation and Blast Radius](https://kakkoyun.me/posts/cup-o-go-podcast/) `August 17, 2026` 
 
- - [Three Questions Before You Trust a Benchmark](https://kakkoyun.me/posts/go-benchmarks-lying-three-questions/) `August 4, 2026` 
+ - [OpenTelemetry Go Compile-time Instrumentation v1](https://kakkoyun.me/posts/go-compile-time-instrumentation-v1/) `July 22, 2026` 
 
- - [A/B is the wrong model for CI](https://kakkoyun.me/posts/go-benchmarks-ab-is-the-wrong-model/) `August 1, 2026` 
+ - [Mentorship in Open Source — Part 3: Stewardship Inside OpenTelemetry](https://kakkoyun.me/posts/mentorship-in-open-source-part-3-stewardship/) `June 5, 2026` 
 
- - [A PR gate that actually fails](https://kakkoyun.me/posts/go-benchmarks-pr-gate-that-fails/) `July 31, 2026` 
+ - [Mentorship in Open Source — Part 2: The Mentee Playbook](https://kakkoyun.me/posts/mentorship-in-open-source-part-2-mentee-playbook/) `May 29, 2026` 
 
- - [Go runtime futures: flight recording, USDT, and the instrumentation hook problem](https://kakkoyun.me/posts/go-runtime-futures-flight-recording-usdt/) `July 30, 2026` 
+ - [Why I Keep Mentoring in Open Source](https://kakkoyun.me/posts/mentorship-in-open-source/) `May 22, 2026` 
 
- - [Benchmark CI That Doesn&#39;t Lie](https://kakkoyun.me/posts/go-benchmarks-lying-ci/) `July 28, 2026` 
+ - [From talk to docs: The Zen of Prometheus](https://kakkoyun.me/posts/from-talk-to-docs-the-zen-of-prometheus/) `May 15, 2026` 
 
- - [Context across goroutines and connections](https://kakkoyun.me/posts/go-context-across-goroutines/) `July 27, 2026` 
+ - [Measuring Software Performance: Why Your Benchmarks Are Probably Lying](https://kakkoyun.me/posts/fosdem-2026-measuring-software-performance/) `March 6, 2026` 
+
+ - [Auto-Instrumenting Go: From eBPF to USDT Probes](https://kakkoyun.me/posts/fosdem-2026-auto-instrumenting-go/) `February 27, 2026` 
 <!-- BLOG-POST-LIST:END -->
 
 For more visit [kakkoyun.me/posts](https://kakkoyun.me/posts)
